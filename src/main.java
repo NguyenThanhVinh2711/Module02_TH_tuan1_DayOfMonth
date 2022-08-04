@@ -32,5 +32,6 @@ public class main {
         }
         if (!dayInMonth.equals("")) System.out.printf("The month '%d' has %s days!", month, dayInMonth);
         else System.out.print("Invalid input!");
+        System.out.println("D");
     }
 }
